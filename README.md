@@ -1,4 +1,4 @@
-# All DMClear
+# Discord Cleanup Tool
 
 A script to manage, export, and delete your Discord DMs and manage other account settings.
 
@@ -23,7 +23,7 @@ On the first run, the script will ask for your **Discord Token** and **User ID**
 
 ---
 
-# All DMClear (Türkçe)
+# Discord Cleanup Tool(TR)
 
 Discord DM'lerinizi yönetmek, dışa aktarmak (export), silmek ve diğer hesap ayarlarınızı yönetmek için geliştirilmiş bir script.
 
