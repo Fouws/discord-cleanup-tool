@@ -20,8 +20,8 @@ python main.py
 ```
 
 On the first run, the script will ask for your **Discord Token** and **User ID**. It will save these to a `config.json` file so you won't have to enter them again. If you need to change the token or ID, simply edit or delete `config.json`.
-![Menu](image.png)
----
+
+![Menu](image.png)---
 
 # Discord Cleanup Tool(TR)
 
